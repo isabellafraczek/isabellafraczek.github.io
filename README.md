@@ -11,13 +11,13 @@ Hi! My name is Isabella Fraczek, and I am a first-generation college graduate wi
 ## 💼 Professional Experience
 
 ### Technology Analyst, Deutsche Bank
-- **Database Optimization:** Migrated systems to Cloud Spanner for horizontal scalability and implemented Terraform for infrastructure management.
+- **Database Optimization:** Migrated systems to database for horizontal scalability and implemented Terraform for infrastructure management.
 - **Project Collaboration:** Contributed to financial technology solutions with a focus on scalability and performance.
 
-### Fidelity Investments (Intern)
+### Fullstack Engineering Intern, Fidelity Investments
 - Enhanced data processing capabilities and optimized workflows.
 
-### Teaching Assistant, Bridge to Enter Advanced Mathematics (BEAM)
+### Couselor/Teaching Assistant, Bridge to Enter Advanced Mathematics (BEAM)
 - Mentored students in advanced mathematics concepts and problem-solving skills.
 
 ---
@@ -26,19 +26,17 @@ Hi! My name is Isabella Fraczek, and I am a first-generation college graduate wi
 
 - **Programming Languages:** Python, SQL, JavaScript
 - **Tools & Technologies:** Terraform, Cloud Spanner, Git
-- **Soft Skills:** Leadership, Mentorship, Effective Communication
+- **Soft Skills:** Leadership, Mentorship, Problem Solving
 
 ---
 
 ## 🌟 Featured Projects
 
-### Database Scalability Project
-- Migrated a legacy database to Google Cloud Spanner to support horizontal scaling.
-- Used Terraform to deploy and manage cloud infrastructure efficiently.
+### North Carolina Voters Data Analysis
+- Developed a pho website to view NC voter data analytics derived from cleaning and analyzing 400,000+ data fields on oracleSQL.
 
-### Counterparty Filter Tool
-- Built a customizable filtering and sorting tool for financial datasets.
-- Technologies used: Python, SQL.
+### Vanderbilt College Roomate Matcher
+- Built a FERN based web app 
 
 ### Data Analysis for Community Engagement
 - Analyzed datasets to uncover trends and optimize community outreach efforts.
@@ -48,9 +46,9 @@ Hi! My name is Isabella Fraczek, and I am a first-generation college graduate wi
 
 ## 📫 Get in Touch
 
-- **Portfolio Site:** [Your GitHub Pages Site Link](https://yourusername.github.io)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Email:** yourname@example.com
+- **Portfolio Site:** [Your GitHub Pages Site Link](https://isabellafraczek.github.io)
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/isabella-fraczek)
+- **Email:** isafraczek@gmail.com
 
 ---
 
