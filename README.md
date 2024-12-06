@@ -46,8 +46,8 @@ Hi! My name is Isabella Fraczek, and I am a first-generation college graduate wi
 
 ## 📫 Get in Touch
 
-- **Portfolio Site:** [Your GitHub Pages Site Link](https://isabellafraczek.github.io)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/isabella-fraczek)
+- **Portfolio Site:** [isabellafraczek.github.io](https://isabellafraczek.github.io)
+- **LinkedIn:** [linkedin.com/in/isabella-fraczek](https://linkedin.com/in/isabella-fraczek)
 - **Email:** isafraczek@gmail.com
 
 ---
